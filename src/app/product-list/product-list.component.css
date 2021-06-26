@@ -1,0 +1,23 @@
+.btn-color-call{
+    background-color: #cc6613;
+   text-decoration: white;
+   width: 55%;
+   margin-top: 5px;
+}
+.btn-color-write{
+    background-color: #3a9fc7;
+   text-decoration: white;
+   width: 45%;
+   margin-top: 5px;
+}
+
+.product{
+    margin-top: -4px;
+    margin-bottom: -2px;
+}
+
+.product-item{
+    width: 15rem; 
+    border: none;
+    border-radius: 5px;
+}

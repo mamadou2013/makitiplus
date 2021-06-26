@@ -1,0 +1,16 @@
+.media{
+    display: inline-block;
+    background-color: #299ecc;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid none;
+    border-radius: 4px;
+}
+
+.list-unstyled.nav-item{
+    margin-top: -30px;
+}
+
+.media-text-color{
+    color: white;
+}
